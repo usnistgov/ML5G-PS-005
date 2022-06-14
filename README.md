@@ -5,9 +5,6 @@
 <p align="center">
 <img src="docs/gif/room_estimation.gif" alt="drawing">
 </p>
-<p align="center">
-<img src="docs/img/results.jpg" alt="drawing">
-</p>
 
 # Getting Started
 
