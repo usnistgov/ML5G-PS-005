@@ -1,10 +1,13 @@
 # Depth Map Estimation in 6G mmWave systems
 
-> Software and dataset resource for ITU AI/ML in 5G Challenge. To register to the challenge, please visit https://challenge.aiforgood.itu.int/match/matchitem/63 . 
+> Software and dataset resource for ITU AI/ML in 5G Challenge. . 
 
 <p align="center">
 <img src="docs/gif/room_estimation.gif" alt="drawing">
 </p>
+
+* To register to the challenge, please visit https://challenge.aiforgood.itu.int/match/matchitem/63 
+* Presentation of the challenge is available at https://www.youtube.com/watch?v=r9UZ1YtwqB8&ab_channel=AIforGood
 
 # Getting Started
 
@@ -13,12 +16,12 @@ The software does not require any installation procedure: simply download or clo
 
 ### Download dataset
 
-The dataset is available at https://datapub.nist.gov/od/id/mds2-2645
+The dataset is available at https://doi.org/10.18434/mds2-2645
 
 
 To download the training dataset for the ITU-Challenge:
 
-Execute the matlab script dataset/downloadDataset.m or the phyton script dataset/downloadDataset.py
+* Execute the matlab script dataset/downloadDataset.m or the phyton script dataset/downloadDataset.py .
 In case of problems in downloading the dataset, please send an email to the authors.
 
 
@@ -32,7 +35,7 @@ Here are some ways in which you can contribute:
 make your changes and submit a pull request. Here are some instructions on 
 how to proceed:
 
-[Instructions on how to generate pull request from github](https://help.github.com/articles/creating-a-pull-request-from-a-fork/
+Instructions on how to generate pull request from github: https://help.github.com/articles/creating-a-pull-request-from-a-fork/
 
 * Please open an issue if you find a problem.
 
