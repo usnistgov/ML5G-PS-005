@@ -1,6 +1,6 @@
 # Depth Map Estimation in 6G mmWave systems
 
-> Software and dataset resource for ITU AI/ML in 5G Challenge. . 
+> Software and dataset resource for ITU AI/ML in 5G Challenge. 
 
 <p align="center">
 <img src="docs/gif/room_estimation.gif" alt="drawing">
