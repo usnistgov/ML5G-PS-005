@@ -36,7 +36,7 @@
 clear;clc;
 saveDir = pwd; % Download to current dir, change if different dir is desired
 %% Get json record of the dataset
-baseUrl='https://datapub.nist.gov/midas/ark:/88434/';
+baseUrl='https://data.nist.gov/rmm/records/';
 recordID='mds2-2645';
 
 timeOut=40;
