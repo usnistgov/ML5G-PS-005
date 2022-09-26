@@ -21,9 +21,8 @@ The dataset is available at https://doi.org/10.18434/mds2-2645
 
 To download the training dataset for the ITU-Challenge:
 
-* Execute the matlab script dataset/downloadDataset.m or the phyton script dataset/downloadDataset.py .
-In case of problems in downloading the dataset, please send an email to the authors.
-
+* Execute the matlab script dataset/downloadDataset.m or the phyton script dataset/downloadDataset.py.
+In case of problems in downloading the dataset, you can request temporary access to download the data at https://drive.google.com/drive/folders/1jGtE3UtdqgEkBojJ8OS7rYHA0H7kf6OW?usp=sharing 
 
 ## Contributing
 
